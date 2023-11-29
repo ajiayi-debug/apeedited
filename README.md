@@ -1,5 +1,8 @@
 #Automatic Prompt Engineer (APE) to convert CSV data to LaTeX format
 
+##link to the project:
+code for the project can be found in the following [google drive](https://drive.google.com/drive/folders/1nKAhy8DUrUps7h4SRSjbbV7nGpOzD-Px?usp=sharing)
+
 ##Overview:
 This project involved revamping the APE codebase to integrate the Alpaca-7B model, resulting in cost reductions and increased efficiency. The effort was inspired by the study “Large Language Models Are Human-Level Prompt Engineers.”
 
