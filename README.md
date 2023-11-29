@@ -1,3 +1,5 @@
+#Automatic Prompt Engineer (APE) to convert CSV data to LaTeX format
+
 ##Overview:
 This project involved revamping the APE codebase to integrate the Alpaca-7B model, resulting in cost reductions and increased efficiency. The effort was inspired by the study “Large Language Models Are Human-Level Prompt Engineers.”
 
@@ -11,9 +13,6 @@ This project involved revamping the APE codebase to integrate the Alpaca-7B mode
 
 ##Conclusion:
 The project demonstrates the potential of few-shot prompting combined with semantic facts to automate and improve data generation processes.
-
-##Instructions:
-#Automatic Prompt Engineer (APE) to convert CSV data to LaTeX format
 
 This repo contains edited code from the paper "Large Language Models Are Human-Level Prompt Engineers" from [ArXiv](https://arxiv.org/abs/2211.01910)
 
